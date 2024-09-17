@@ -6,3 +6,5 @@ This is an example entry
 # September 11, 2024
 I think ms.whitby explains instructions well 
 I did not encounter any challenges while following the steps
+# September 17, 2024
+This is a free week.
