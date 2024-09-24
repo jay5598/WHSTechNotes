@@ -8,3 +8,5 @@ I think ms.whitby explains instructions well
 I did not encounter any challenges while following the steps
 # September 17, 2024
 This is a free week.
+# september 24, 2024
+Sphero block is easier because i didn't do Python programming before.
