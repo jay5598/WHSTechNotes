@@ -14,7 +14,8 @@ Sphero block is easier because i didn't do Python programming before.
 My day without computer science would be like a regular day because I can still play basketball when I get bored.
 # October 9, 2024
 Testing - no class
-# October 18, 2024
-Khan Academy
+# October 15, 2024
+We can improve our problem solving skills by studying and learning new things. It can help you problem solving skills. It makes you more creative while 
+working on it.
 # October 21, 2024
 AI helps improve efficiency and innovation in idustries by helping the worker making things easier and some risks of that are getting hacked.
