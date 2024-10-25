@@ -14,3 +14,5 @@ Sphero block is easier because i didn't do Python programming before.
 My day without computer science would be like a regular day because I can still play basketball when I get bored.
 # October 9, 2024
 Testing - no class
+# October 18, 2024
+Khan Academy
