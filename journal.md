@@ -16,3 +16,5 @@ My day without computer science would be like a regular day because I can still 
 Testing - no class
 # October 18, 2024
 Khan Academy
+# October 21, 2024
+AI helps improve efficiency and innovation in idustries by helping the worker making things easier and some risks of that are getting hacked.
