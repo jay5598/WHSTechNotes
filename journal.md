@@ -21,6 +21,6 @@ working on it.
 AI helps improve efficiency and innovation in idustries by helping the worker making things easier and some risks of that are getting hacked.
 # November 4, 2024
 1. So that noone can get your information
-2. passwords
+2. Passwords
 3. no I have not
 4. 
