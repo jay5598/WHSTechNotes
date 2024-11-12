@@ -24,3 +24,5 @@ AI helps improve efficiency and innovation in idustries by helping the worker ma
 2. Passwords
 3. no I have not
 4. 
+# November 12, 2024
+Technology is the use of scientific knowledge for practical purposes, and for solving problems.
