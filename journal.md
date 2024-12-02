@@ -28,3 +28,5 @@ AI helps improve efficiency and innovation in idustries by helping the worker ma
 Technology is the use of scientific knowledge for practical purposes, and for solving problems.
 # November 18, 2024
 technology make food more affordable and accessible during the holiday. It helped farmers to produce more food with less labor. With the help of technological advancements, there have also been developed machines that package and process food more efficiently.
+# December 2, 2024
+AI can impact society by Self-driving cars, Smart assistants, Healthcare management, Automated financial investing, Virtual travel booking agent, Social media monitoring, Marketing chatbots.
