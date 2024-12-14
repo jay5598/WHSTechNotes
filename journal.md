@@ -30,3 +30,5 @@ Technology is the use of scientific knowledge for practical purposes, and for so
 technology make food more affordable and accessible during the holiday. It helped farmers to produce more food with less labor. With the help of technological advancements, there have also been developed machines that package and process food more efficiently.
 # December 2, 2024
 AI can impact society by Self-driving cars, Smart assistants, Healthcare management, Automated financial investing, Virtual travel booking agent, Social media monitoring, Marketing chatbots.
+# December 9, 2024
+The rise of "brain rot" among Gen Z students, coined by Oxford University Press, is linked to excessive social media use. Platforms like YouTube, TikTok, and Instagram contribute to digital distraction, leading to cognitive stagnation, reduced focus, and mental health issues.
