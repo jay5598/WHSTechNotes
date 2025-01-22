@@ -38,3 +38,5 @@ Yes I am looking forward into christmas break.
 The thing I enjoyed last semester was the fun assignments.
 # January 13, 2025
 Artificial Intelligence is also enhancing existing jobs by improving accuracy and precision in many tasks, such as quality control and data analysis.
+# January 22, 2025
+The Supreme Court unanimously upheld the federal law banning TikTok beginning unless it's sold by its China-based parent company, holding that the risk to national security posed by its ties to China.There are concerns that the video-sharing platform poses a potential national security risk because of China's involvement with the app.
