@@ -47,3 +47,5 @@ Jimmy		| Honda Civic     | Drilled Hole In Gas Tank |
 Kayla		| GMC Sierra      | Fixed Wrong Prolem       |
 Bart		| Toyota Corolla  | Left Stains On Carpet    |
 Harrison| Subaru Forester |	Left The Oil Cap Off     |	
+# February 3, 2025
+TCAS relies on a combination of surveillance sensors to collect data on the state of intruder aircraft and a set of algorithms that determine the best maneuver that the pilot should make to avoid a mid-air collision.Cybersecurity breaches can compromise the safety and consistency of flight operations, damage the reputation of airlines, and result in financial loss, impacting both airlines and passengers.
