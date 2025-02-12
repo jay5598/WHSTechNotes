@@ -49,3 +49,5 @@ Bart		| Toyota Corolla  | Left Stains On Carpet    |
 Harrison| Subaru Forester |	Left The Oil Cap Off     |	
 # February 3, 2025
 TCAS relies on a combination of surveillance sensors to collect data on the state of intruder aircraft and a set of algorithms that determine the best maneuver that the pilot should make to avoid a mid-air collision.Cybersecurity breaches can compromise the safety and consistency of flight operations, damage the reputation of airlines, and result in financial loss, impacting both airlines and passengers.
+# February 11, 2025
+The raw data is used to automate player participation reports, calculate performance metrics, and derive advanced statistics through machine learning (ML) on AWS. More than 200 new data points are created on every play of every game. Visit the Next Gen Stats glossary for a full overview of our stats collection.
