@@ -53,3 +53,5 @@ TCAS relies on a combination of surveillance sensors to collect data on the stat
 The raw data is used to automate player participation reports, calculate performance metrics, and derive advanced statistics through machine learning (ML) on AWS. More than 200 new data points are created on every play of every game. Visit the Next Gen Stats glossary for a full overview of our stats collection.
 # February 18, 2025
 the most interesting thing I learned last week was forgetting I was able to dunk.
+# February 24, 2025
+For language teachers, digital tools can revolutionise both student engagement and, on a more practical level, lesson planning and the use of classroom resources. 
