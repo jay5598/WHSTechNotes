@@ -55,3 +55,5 @@ The raw data is used to automate player participation reports, calculate perform
 the most interesting thing I learned last week was forgetting I was able to dunk.
 # February 24, 2025
 For language teachers, digital tools can revolutionise both student engagement and, on a more practical level, lesson planning and the use of classroom resources. 
+# March 17, 2025
+I often use my phone and play the game. The technology entertained me when I'm bored so I play games or watch videos.
