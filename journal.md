@@ -56,17 +56,17 @@ the most interesting thing I learned last week was forgetting I was able to dunk
 # February 24, 2025
 For language teachers, digital tools can revolutionise both student engagement and, on a more practical level, lesson planning and the use of classroom resources. 
 # March 3, 2025
-Name|	Power|	Challenge
+Name|	Power|	Challenge|
 ---------------------
-Zara|	Mind Control	Extract Prisoner
+Zara|	Mind Control|	Extract Prisoner|
 ------------------------------------
-Aether|	Telekenesis	Retrieve Stolen Goods
+Aether|	Telekenesis|	Retrieve Stolen Goods|
 -----------------------------------------
-Thorne|	Shapeshifting	Secure Building
+Thorne|	Shapeshifting|	Secure Building|
 ---------------------------------------
-Silver|	Weather Manipulation	Prevent Assassination
+Silver|	Weather Manipulation|	Prevent Assassination|
 -------------------------------------
-Tangier	|Invisibility	Underwater Rescue
+Tangier	|Invisibility|	Underwater Rescue|
 ---------------------------------------
 # March 17, 2025
 I often use my phone and play the game. The technology entertained me when I'm bored so I play games or watch videos.
