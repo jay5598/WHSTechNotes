@@ -70,3 +70,5 @@ Tangier	|Invisibility|	Underwater Rescue|
 ---------------------------------------
 # March 17, 2025
 I often use my phone and play the game. The technology entertained me when I'm bored so I play games or watch videos.
+# March 18, 2025
+Make a Flappy game
