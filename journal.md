@@ -72,3 +72,5 @@ Tangier	|Invisibility|	Underwater Rescue|
 I often use my phone and play the game. The technology entertained me when I'm bored so I play games or watch videos.
 # March 18, 2025
 Make a Flappy game
+# March 24, 2025
+March Madness has advanced technologies so it can play out better on any device.
