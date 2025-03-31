@@ -74,3 +74,5 @@ I often use my phone and play the game. The technology entertained me when I'm b
 Make a Flappy game
 # March 24, 2025
 March Madness has advanced technologies so it can play out better on any device.
+# March 31, 2025
+I'm chill right now. The most stressful part of school lately was nothing really. The things I could do to take care of yourself during stressful times is listen to music or play games or basketball.  I can talk to my parents when i'm feeling overwhelmed is my parents because they uderstand me. 
