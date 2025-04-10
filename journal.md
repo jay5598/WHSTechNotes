@@ -78,3 +78,5 @@ March Madness has advanced technologies so it can play out better on any device.
 I'm chill right now. The most stressful part of school lately was nothing really. The things I could do to take care of yourself during stressful times is listen to music or play games or basketball.  I can talk to my parents when i'm feeling overwhelmed is my parents because they uderstand me. 
 # April 2, 2025
 Minecraft: Voyage Aquatic
+# April 7, 2025
+Ai can prepare me by helping sovle an answer different ways.
