@@ -80,3 +80,5 @@ I'm chill right now. The most stressful part of school lately was nothing really
 Minecraft: Voyage Aquatic
 # April 7, 2025
 Ai can prepare me by helping sovle an answer different ways.
+# April 14, 2025
+a new law requires social media platforms to ban kids in Florida who are younger than 14.
