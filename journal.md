@@ -91,3 +91,5 @@ Michael|  Vanilla   |Farewell Party|  $37.00   |
 --------------------------------------------------
 Emma   |  Carrot    |   Birthday   |  $ 39.00  |
 --------------------------------------------------
+# May 5, 2025
+1. 100 people would win because they are all charging him but the first few people that attack him are gonna get hurt but the gorilla gonna start geting tired and loss enegry to where he can't do anything and losses the battle.
