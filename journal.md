@@ -82,7 +82,7 @@ Minecraft: Voyage Aquatic
 Ai can prepare me by helping sovle an answer different ways.
 # April 14, 2025
 a new law requires social media platforms to ban kids in Florida who are younger than 14.
-# April 28, 2024
+# April 28, 2025
 Name   |   Flavor   |   Occasion   |   Price   |
 --------------------------------------------------
 Sally  |  Chocolate |   Graduation |   $35.00  |
