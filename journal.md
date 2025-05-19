@@ -95,3 +95,5 @@ Emma   |  Carrot    |   Birthday   |  $ 39.00  |
 1. 100 people would win because they are all charging him but the first few people that attack him are gonna get hurt but the gorilla gonna start geting tired and loss enegry to where he can't do anything and losses the battle.
 # May 12, 2025
 The students that do it they want antteion but at what cause because you could get exspelled or get put in alternavtive school for the rest the the school year and when school starts back up. 
+# May 19, 2025
+Yes because I don't have to wake up early anymore. 
