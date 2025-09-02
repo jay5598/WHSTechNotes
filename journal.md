@@ -97,3 +97,5 @@ Emma   |  Carrot    |   Birthday   |  $ 39.00  |
 The students that do it they want antteion but at what cause because you could get exspelled or get put in alternavtive school for the rest the the school year and when school starts back up. 
 # May 19, 2025
 Yes because I don't have to wake up early anymore. 
+# September 2, 2025
+My thoughts on the new cell phone law is bad because what if somethings happpens in school and you want to contact your parents. I'm adjusting by keeping my phone out of sight from where I can see it or hear it. The challenges I see from other students like me want to be on are phones and listen to music while we work on in the cafeitera at the lunch table.  
