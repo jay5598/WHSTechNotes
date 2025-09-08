@@ -99,3 +99,7 @@ The students that do it they want antteion but at what cause because you could g
 Yes because I don't have to wake up early anymore. 
 # September 2, 2025
 My thoughts on the new cell phone law is bad because what if somethings happpens in school and you want to contact your parents. I'm adjusting by keeping my phone out of sight from where I can see it or hear it. The challenges I see from other students like me want to be on are phones and listen to music while we work on in the cafeitera at the lunch table.  
+# September 8, 2025
+Computer science can be valuable in Basketball. 
+Computer science can be valuable in basketball because of the scored board because when a team scores they have to manually press the button on the scoreboard but if the computer detected when a team scored it could put it but its self.
+Computer science can be valuable to nurses or docters because in the video she said she'll tell you to spit in a cup and put in a magic machine and within a hour she can tell you what kind of virus you have.
