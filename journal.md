@@ -103,3 +103,7 @@ My thoughts on the new cell phone law is bad because what if somethings happpens
 Computer science can be valuable in Basketball. 
 Computer science can be valuable in basketball because of the scored board because when a team scores they have to manually press the button on the scoreboard but if the computer detected when a team scored it could put it but its self.
 Computer science can be valuable to nurses or docters because in the video she said she'll tell you to spit in a cup and put in a magic machine and within a hour she can tell you what kind of virus you have.
+# September 16, 2025
+My idea for an Ai project is to use it for reasturants or fast foods.
+I choses those 2 things because somtimes the people taking the order be forgetting what you order than they have you waiting a while just to get your food.
+The reason why I said this because it happened to me and my mom when we went to go get something to eat. We order are food then they tolds to wait at the third window but they kept coming out with people food that had waited only a few minutes while we was waiting for 25 minutes. Then when they came it had to fresh because the food was cold but they were nice to bring us deserts for the long wait and extra fresh food.
