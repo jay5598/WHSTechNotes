@@ -114,3 +114,7 @@ I believe that working in a virtual store for real money as exemplified by IKEA'
 67 is just something we say from a song but we say it to say the time like when they ask what time is it we just say it like 67 o'clock and or even when the scoreboard is 67 we just troll and say it.
 # October 6, 2025
 If I was in charge of my school I would not block games on the chromebook. I say this because phone were taken away from students. so when were are done with or work we can play games on are chromebook. 
+# October 14, 2025
+https://davisj.my.canva.site/ 
+## Part 2
+My prompt is for athletes who want to get better and get to the next level and achive their goal.
