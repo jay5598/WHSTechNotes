@@ -118,3 +118,12 @@ If I was in charge of my school I would not block games on the chromebook. I say
 https://davisj.my.canva.site/ 
 ## Part 2
 My prompt is for athletes who want to get better and get to the next level and achive their goal.
+# October 20, 2025
+Name|	Class|	Seat|
+------------------
+Franklin|	Second|	91A
+------------------
+Hardeep	|Third |	61F
+------------------
+Marla |	First |	35B
+------------------
