@@ -127,3 +127,12 @@ Hardeep	|Third |	61F
 ------------------
 Marla |	First |	35B
 ------------------
+# October 27, 2025
+Name |	Main Dish |	Dessert |
+----------------------------
+Fiona|	Gado Gado |	Creme Brulee|
+----------------------------
+Tobias|	Shrimp Ceviche|	French Apple Cake|
+----------------------------
+Leanne|	Beef Wellington| Raspberry Tiramisu|
+----------------------------
