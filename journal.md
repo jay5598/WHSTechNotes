@@ -138,3 +138,5 @@ Leanne|	Beef Wellington| Raspberry Tiramisu|
 ----------------------------
 # November 3, 2025
 When SNAP funding runs out many families can't afford enough food leading to food insecurity. Technology could help by connecting people with available resources. An app or website could provide real time information about local food banks, free meal programs, and grocery stores offering discounts. However, there are challenges because not everyone has access to the internet. 
+# November 13, 2025
+Technology has changed holiay celebrations by making the more accsessible but potentially less personal, and developers should be responsible for ensuring holiday tech respects privacy and family time.
