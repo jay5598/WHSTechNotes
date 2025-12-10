@@ -145,3 +145,5 @@ Technology has changed holiay celebrations by making the more accsessible but po
 2: law enforcements does the coding for data security 
 3: $70,000 to $120,000
 4: Remote pilot certificate 
+# December 8, 2025
+Self-driving cars may fail to recognize school busses                                                                                  due to sensor limitations, Ai training and environmental                                                                              factors; improvements include sensor fusion, software  rules, and                                                                     emergency stop logic.
