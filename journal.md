@@ -151,3 +151,5 @@ YESSS
 Self-driving cars may fail to recognize school busses                                                                                  due to sensor limitations, Ai training and environmental                                                                              factors; improvements include sensor fusion, software  rules, and                                                                     emergency stop logic.
 # December 15, 2025
 Grind for this basketball season and hang out with my family
+# January 6, 2026
+I used technology to play the game, watch videos, and call my freinds. 
