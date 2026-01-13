@@ -153,3 +153,5 @@ Self-driving cars may fail to recognize school busses                           
 Grind for this basketball season and hang out with my family
 # January 6, 2026
 I used technology to play the game, watch videos, and call my freinds. 
+# January 12, 2026
+Autcraft was created to solve problems of online harassment against neurodivergent players, highlighting the need for developer-led safe online spaces.
