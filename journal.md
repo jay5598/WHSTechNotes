@@ -155,3 +155,5 @@ Grind for this basketball season and hang out with my family
 I used technology to play the game, watch videos, and call my freinds. 
 # January 12, 2026
 Autcraft was created to solve problems of online harassment against neurodivergent players, highlighting the need for developer-led safe online spaces.
+# January 20, 2026
+Technology can promote fairness by providing access to information and resources for marginalized communities.
