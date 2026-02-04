@@ -161,3 +161,5 @@ Technology can promote fairness by providing access to information and resources
 I took the MAP test.
 How felt good after finshing the test.
 Yes I think it will.
+# February 2, 2026
+You have to behave professionally in shared spaces such as classrooms, offices, or work sites so people won't stereotype and look at you different.
