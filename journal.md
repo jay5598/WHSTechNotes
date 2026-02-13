@@ -163,3 +163,7 @@ How felt good after finshing the test.
 Yes I think it will.
 # February 2, 2026
 You have to behave professionally in shared spaces such as classrooms, offices, or work sites so people won't stereotype and look at you different.
+# February 10, 2026
+a little bit
+No 
+That game was trash and the halftime.
