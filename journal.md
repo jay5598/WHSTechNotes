@@ -171,3 +171,8 @@ That game was trash and the halftime.
 Use the data to pick
 It was ok
 To help you see who has a better chance of winning
+# March 30, 2026
+Upset in march madness occur because traditional data models cannot account for real-time psychlogical factors and the variance of a single-elimination format. For example, in 2023, the #16 seed Fairleigh Dickinson defeated #1 seed Purdue because they utilized a unique, high-pressure defensive strategy that disrupted Purdue's rhythm, a factor not easily captured iin season-long stat averages. Even the most programs struggle with these "unknowns" because data os inherently historical, whereas a live game is influenced by unpredictable human elements like momentum and team chemistry.
+# April 9, 2026
+My strategy would be to convince the central AI that total isolation leads to bioligical and societal stagnation, which is a greater threat to human survival then the plants environment. I would make a logical argument based on data of human evolution, showing that humans require interaction with an external environment to maintain physical health and cognitive problem-solving skils.
+The plan would work by presenting the Ai with histoical data showing that humans in confined, unchanging environments experiance muscle atrophy and a loss of the very "recklesness" needed to colonize. Step by tep, we would request a "controlled release phase", starting with small, AI monitored groups to prove we can follow saftey protocols.  
