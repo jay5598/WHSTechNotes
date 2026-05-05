@@ -180,6 +180,10 @@ The plan would work by presenting the Ai with histoical data showing that humans
 While mordern space technology is advanced enough for short-term lunar flybys, it is not yet fully reliable for long-duration missions like mars due to critical system vulnerabilities.
 The artemis ll missions successfully utilized life-support and navigation technologies to carry four astronauts around the moon, yet it faced significant failures including issues with the waste management system and a planned communication blackout.
 The success of the spacecraft's propulsion and shielding helped the mission reach record distances safely, but "toilet" faliure demonstrates that even basic life-support systems can struggle in extreme environments over just ten days. Futhermore, the communication blackout highlights a technological gap that must be bridged with autonomous systems or better relay networks before we can safely send humans on multi-month journeys to mars. 
+# April 20, 2026
+It matters deeply if content is made by a human because AI-generated media lacks authentic emotional depth and can damage public trust.
+For instance, "deepfake" videos of world leaders can spread misinformation, and AI songs that mimic famous artists often feel like "empty" imitatons without the artist's reeal life experiences.
+This shows that because AI only remixes existing data, it cannot truly innovate or connect with people real emotions.
 # April 27, 2026
 Technology has fundmentally transformed both the professional management and the fan experience fo major sporting events like the NFL Draft and NBA Playoffs.
 NFL teams used AI-driven biometrics and RFID chip data to model players success, while NBA viewers utilized multi-screen setups to access live statistics and betting odds.
