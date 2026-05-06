@@ -188,3 +188,5 @@ This shows that because AI only remixes existing data, it cannot truly innovate 
 Technology has fundmentally transformed both the professional management and the fan experience fo major sporting events like the NFL Draft and NBA Playoffs.
 NFL teams used AI-driven biometrics and RFID chip data to model players success, while NBA viewers utilized multi-screen setups to access live statistics and betting odds.
 Because these tools provide data that the human eye cannot process alone, they create a multi-million dollar decisions and for fans to deeply analyze game tactics in real-time.
+# May 6, 2026
+Everytime I interact with digital platforms, I am acting not just as a consumer, but as an active participant in training complex AI system. For instance, when I complete a reCAPTCHA by identifying traffic lights or like specific videos on TikTok, I am providing labeled data and preference signals that these systems use to learn.
