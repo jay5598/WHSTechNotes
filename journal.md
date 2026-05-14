@@ -190,3 +190,7 @@ NFL teams used AI-driven biometrics and RFID chip data to model players success,
 Because these tools provide data that the human eye cannot process alone, they create a multi-million dollar decisions and for fans to deeply analyze game tactics in real-time.
 # May 6, 2026
 Everytime I interact with digital platforms, I am acting not just as a consumer, but as an active participant in training complex AI system. For instance, when I complete a reCAPTCHA by identifying traffic lights or like specific videos on TikTok, I am providing labeled data and preference signals that these systems use to learn.
+# May 11, 2026
+I grew up in the 210 area
+The caused of my growth was just grinding 
+An a expample for this that I never had confidence in basketball but the more I worked and grind through these past few years I see myself geting better each day.
